@@ -234,4 +234,4 @@ if문을 이용하여 나머지 작업을 처리 할 것이다. 우선 id값을 
 
 #### 웹 페이지 모습
 
-![포폴2](C:\Users\GD\Desktop\MarkDown\포폴2.jpg)
+![initial](https://github.com/gdmoon144/TheMusicians-ver2.0/blob/main/%ED%8F%AC%ED%8F%B42.jpg?raw=true)
